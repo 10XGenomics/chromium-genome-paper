@@ -1,0 +1,18 @@
+Locus,NA12878,NA12892,NA12891,ovl_svclassify,classification,description
+chr1:72766325-72811837,1|1,1|1,1|1,Yes,TP,
+chr1:152555548-152587734,0|1,-,1|1,Yes,TP,
+chr2:34695837-34736559,1|0,0|1,1|1,Yes,TP,
+chr2:52749692-52785263,1|1,0|1,1|1,Yes,TP,
+chr3:129763385-129806737,1|1,1|1,1|0,Yes,TP,
+chr3:162512134-162626333,1|0,0|1,1|1,Yes,TP,
+chr4:34779956-34828940,0|1,0|1,0|1,Yes,TP,
+chr5:104432114-104503672,1|0,1|0,-,Yes,TP,
+chr1:189690000-189790000,0/1,1|0,-,No,likely-FP,Deletion super-setting the loci below. Breakpoint disagreement with mother (chr1:189704514-189783350)
+chr1:189704517-189783347,1|0,1|0,-,No,TP,Breakpoint agreement with mother (chr1:189704514-189783350)
+chr11:55360000-55490000,0/1,-,0/1,No,likely-FP,Different 3' breakpoint with father (chr11:55360000-55430000)
+chr2:242900000-243080000,0/1,-,-,No,likely-FP,Missing inheritance support
+chr20:1561086-1594155,0|1,1|1,-,No,TP,
+chr4:161043706-161074850,1|0,-,1|0,No,TP,
+chr6:67008738-67048908,1|0,1|0,-,No,TP,
+chr6:78967204-79036470,0|1,-,0|1,No,TP,
+chr8:39232084-39387222,1|0,1|0,-,No,TP,
