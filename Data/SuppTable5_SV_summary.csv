@@ -1,0 +1,19 @@
+Dataset, NA12878_10xLR.47669.ALL, NA12878_10xLR.47669.PASS, NA12878_10xLR.47672.ALL, NA12878_10xLR.47672.PASS, SVClassify (dels:Personalis+1KG), NA12878_pacbio_mtSinai.ALL, NA12878_pacbio_mtSinai.PASS, NA12878_pacbio_ngmlr.PASS, SKBR3_pacbio.PASS, NA12878_1KGP, 1KGP_avg
+total SVs, 9923, 4573, 8892, 4625, 2676, 38839, 10310, 22877, 116216, NA, NA
+total DEL >30Kb, 293, 17, 298, 16, 11, 101, 23, 36, 290, NA, NA
+total DEL <30Kb, 4569, 4512, 4616, 4558, 2665, 20856, 4472, 9897, 45122, NA, NA
+total INS >30Kb, NA, NA, NA, NA, NA, 14, 6, NA, NA, NA, NA
+total INS <30Kb, NA, NA, NA, NA, NA, 17868, 5809, 12052, 67508, NA, NA
+total INV >30Kb, 2287, 4, 1483, 4, NA, NA, NA, 57, 424, NA, NA
+total INV <30Kb, 0, 0, 0, 0, NA, NA, NA, 93, 293, NA, NA
+total DUP >30Kb, 288, 6, 279, 17, NA, NA, NA, 9, 187, NA, NA
+total DUP <30Kb, 0, 0, 0, 0, NA, NA, NA, 594, 1968, NA, NA
+total UNK >30Kb, 1078, 2, 629, 2, NA, NA, NA, NA, NA, NA, NA
+total UNK <30Kb, 0, 0, 0, 0, NA, NA, NA, NA, NA, NA, NA
+total DISTAL >30Kb, 1380, 8, 1564, 6, NA, NA, NA, NA, NA, NA, NA
+total DISTAL <30Kb, 28, 24, 22, 22, NA, NA, NA, NA, NA, NA, NA
+total TRA >30Kb, NA, NA, NA, NA, NA, NA, NA, 119, 273, NA, NA
+total DUP/INS <30Kb, NA, NA, NA, NA, NA, NA, NA, 8, 37, NA, NA
+total INVDUP <30Kb, NA, NA, NA, NA, NA, NA, NA, 12, 106, NA, NA
+total INV/INVDUP <30Kb, NA, NA, NA, NA, NA, NA, NA, NA, 3, NA, NA
+total DEL/INS <30Kb, NA, NA, NA, NA, NA, NA, NA, NA, 5, NA, NA
