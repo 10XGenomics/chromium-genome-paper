@@ -1,0 +1,14 @@
+﻿Intermediate SV metrics,NA12878
+Number of deletion calls from GATK,"1,824"
+Number of deletion calls from LongRanger,"4,118"
+Number of merged calls,"5,136"
+Average deletion size,696bp
+Number of heterozygous calls,"3,015"
+Number of homozygous calls,"2,038"
+Number of calls that match Svclassify truth set (Recall),"2,024 (88.2%)"
+Number of false positive calls (Precision),"3,109 (39.4%)"
+Comparison to Lumpy,NA12878
+Number of deletion calls,"19,307"
+Average deletion size,767bp
+Number of calls that match Svclassify truth set (Recall),"1,263 (55.4%)"
+Number of false positive calls (Precision),"8,307 (13.2%)"

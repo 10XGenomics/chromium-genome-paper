@@ -1,0 +1,30 @@
+﻿,,Samples,Event in Sample,Barcode Coverage,Barcode Overlap,Both Methods
+Copy Number Losses,Terminal Events,"GM06936: 46,XX,del(10)(:p13>qter)",Deletion,Yes,No†,Yes
+.,.,"GM10989: 46,XY,del(9)(p23)",Deletion,Yes,No†,Yes
+.,.,"GM20027: 45,X",Aneuploidy,Yes,No†,Yes
+.,.,"GM21886: 46,XY,r(18)(p11q21)",Ring chromosome,Yes,No†,Yes
+.,.,"GM06226*: 46,XY,der(1)t(1;16)(q44;p12)mat",Derivative chromosome,Yes,No†,Yes
+.,.,"GM21699*: 46,XY,der(6)t(3;6)(p26;q26)",Derivative chromosome,Yes,No†,Yes
+.,.,"GM14485*: 46,XY,der(8)del(8)(p23.3)dup(8)(:p23.1->p11.2::p23.1->qter)",Derivative chromosome,Yes,No†,Yes
+Copy Number Losses,Non-Terminal Events,"GM09888: 46,XX,del(8)(q23q24.1)",Deletion,Yes,Yes,Yes
+.,.,"GM14164: 46,XX,del(13)(q13q32)",Deletion,Yes,Yes,Yes
+.,.,"GM09216: 46,XY,del(2)(p25.1p23)",Deletion,Yes,Yes,Yes
+.,.,"GM10925‡: 46,XY,del(7)(p14p12)",Deletion,No,Yes,Yes
+Copy Number Gains,Terminal Events,"GM05966: 46,XY,dup(14)(pter->q24::q22->qter)",Duplication,Yes,No†,Yes
+.,.,"GM01416: 48,XXXX",Aneuploidy,Yes,No†,Yes
+.,.,"GM05067: 47,XY,+del(9)(q11)mat",Partial Aneuploidy,Yes,No†,Yes
+.,.,"GM16362: 47,XY,+del(22)(q11.2q13.3)",Partial Aneuploidy,Yes,No†,Yes
+.,.,"GM20556: 47,XY,+idic(15)(q13)",Isodicentric chromosome,Yes,No†,Yes
+.,.,"GM06870: 47,XX,+i(18)(p10)",Isodicentric chromosome,Yes,No†,Yes
+.,.,"GM06226*: 46,XY,der(1)t(1;16)(q44;p12)mat",Derivative chromosome,Yes,No†,Yes
+.,.,"GM21699*: 46,XY,der(6)t(3;6)(p26;q26)",Derivative chromosome,Yes,No†,Yes
+.,.,"GM14485*: 46,XY,der(8)del(8)(p23.3)dup(8)(:p23.1->p11.2::p23.1->qter)",Derivative chromosome,Yes,No†,Yes
+Copy Number Gains,Non-Terminal Events,"GM09367: 46,XX,dup(6)(q21q24)",Duplication,Yes,Yes,Yes
+Copy Neutral Events,Translocations,"GM06226*: 46,XY,der(1)t(1;16)(q44;p12)mat",Derivative chromosome,No†,Yes,Yes
+.,.,"GM21699*: 46,XY,der(6)t(3;6)(p26;q26)",Derivative chromosome,No†,Yes,Yes
+.,.,"GM14485*: 46,XY,der(8)del(8)(p23.3)dup(8)(:p23.1->p11.2::p23.1->qter)",Derivative chromosome,No†,Yes,Yes
+.,.,"GM22765: 46,XY,t(4;14;11)(q34.1;q21;q22.2)",Balanced translocation,No†,Yes,Yes
+.,.,"GM10207: 46,XY,t(10;14)(10qter>10p13::14q24.3> 14qter;14pter>14q24.3::10p13>10pter)",Balanced translocation,No†,Yes,Yes
+.,.,"GM18825: 46,XX,t(5;10)(p13.3;q21.1)",Balanced translocation,No†,Yes,Yes
+.,.,"GM22709§: 46,XY,t(16;20)(q11.2;q13.2)",Balanced translocation,No†,No,No
+Copy Neutral Events,Inversions,"GM21075: 46,XY,inv(9)(q22.3q34.1)",Inversion,No†,Yes,Yes

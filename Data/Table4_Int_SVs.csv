@@ -1,0 +1,6 @@
+﻿Intermediate SV metrics,NA12878
+Number of deletion calls from LongRanger,"4,118"
+Number of heterozygous calls,"1,699"
+Number of homozygous calls,"2,630"
+Number of calls that match Svclassify truth set (Recall),"2,017 (88.4%)"
+Number of false positive calls (Precision),"2,048 (49.6%)"
