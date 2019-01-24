@@ -1,4 +1,4 @@
-Example,Location,Manual assessment,Notes,Quality,LR genotype,GIAB genotype,Supporting reads/Total reads Hap0,Supporting reads/Total reads Hap1,Supporting reads/Total reads PB,Supporting reads/Total reads TrueSeq,Image filename
+Example,Location,Manual assessment,Notes,Quality,LR genotype,GIAB genotype,Supporting reads/Total reads Hap1,Supporting reads/Total reads Hap2,Supporting reads/Total reads PB,Supporting reads/Total reads TrueSeq,Image filename
 1,chr1: 569427:C:T,TP,n/a,1205.77,0/1,./.,15/15,25/25,7/52,13/14,chr1_569427.png
 2,chr2:21106587:T:C,TP,n/a,578.77,0/1,./.,10/10,20/20,1/25,13/29,chr2_21106587.png
 3,chr2:120171025:G:A,TP,n/a,164.77,0/1,./.,0/20,15/16,0/41,22/53,chr2_120171025.png
