@@ -1,4 +1,3 @@
-Comp.ID, Qry.Num, Qry.Ovl, Tgt.Num, Tgt.Ovl
->=30kb, 17, 8, 11, 8
-<30kb, 5136, 2024, 2294, 2024
-
+Size group of PASS deletions,Total number of Long Ranger calls in each category,Total number of svclassify calls in each category,Total number of overlapping calls of Long Ranger and the svclassify datasets
+>=30kb,17,11,8
+<30kb,5136,2294,2024
